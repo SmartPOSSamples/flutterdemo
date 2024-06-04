@@ -64,9 +64,9 @@ class MyStatelessWidget extends StatelessWidget {
                     textStyle: const TextStyle(fontSize: 20),
                   ),
                   onPressed: () {
-                    _printWizarPOS("测试打印数据测试打印数据测试打印数据测试打印数据测试打印数据测试打印数据测试打印数据测试打印数据");
+                    _printWizarPOS("Test print data Test print data Test print data Test print data Test print data Test print data Test print data Test print data");
                   },
-                  child: const Text('开始打印'),
+                  child: const Text('print start'),
                 ),
               ],
             ),
